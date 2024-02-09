@@ -3,7 +3,7 @@
  * Plugin Name:       Viewyonder Plugin-Alive
  * Plugin URI:        https://github.com/viewyonder/vyond-alive
  * Description:       Handle the basics with this plugin.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Steve Chambers
  * Author URI:        https://viewyonder.com/about/steve-chambers
  * License:           GPL v2 or later
